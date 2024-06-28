@@ -1,0 +1,7 @@
+[package]
+name = "extendr_api_rots"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+extendr-api = { git = "https://github.com/extendr/extendr.git" }
